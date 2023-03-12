@@ -1,0 +1,14 @@
+[
+  {
+    "nome": "Bob",
+    "cores": ["Preto", "Vermelho"],
+    "som": "fuumm uuuuh",
+    "especie": "Africano"
+  },
+  {
+    "nome": "Jack",
+    "cores": ["Verde", "Branco"],
+    "som": "fuumm uuuuh",
+    "especie": "Asiático"
+  }
+]

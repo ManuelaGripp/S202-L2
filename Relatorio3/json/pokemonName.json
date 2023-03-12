@@ -1,0 +1,25 @@
+[
+    {
+        "_id": {
+            "$oid": "640d26f235c5d0089ee65148"
+        },
+        "id": 147,
+        "name": {
+            "english": "Dratini",
+            "japanese": "\u30df\u30cb\u30ea\u30e5\u30a6",
+            "chinese": "\u8ff7\u4f60\u9f99",
+            "french": "Minidraco"
+        },
+        "type": [
+            "Dragon"
+        ],
+        "base": {
+            "HP": 41,
+            "Attack": 64,
+            "Defense": 45,
+            "Sp. Attack": 50,
+            "Sp. Defense": 50,
+            "Speed": 50
+        }
+    }
+]

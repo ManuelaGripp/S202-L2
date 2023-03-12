@@ -1,0 +1,98 @@
+[
+    {
+        "_id": {
+            "$oid": "640d297361bbf35114707f70"
+        },
+        "id": 142,
+        "name": {
+            "english": "Aerodactyl",
+            "japanese": "\u30d7\u30c6\u30e9",
+            "chinese": "\u5316\u77f3\u7ffc\u9f99",
+            "french": "Pt\u00e9ra"
+        },
+        "type": [
+            "Rock",
+            "Flying"
+        ],
+        "base": {
+            "HP": 80,
+            "Attack": 105,
+            "Defense": 65,
+            "Sp. Attack": 60,
+            "Sp. Defense": 75,
+            "Speed": 130
+        }
+    },
+    {
+        "_id": {
+            "$oid": "640d297361bbf35114708118"
+        },
+        "id": 566,
+        "name": {
+            "english": "Archen",
+            "japanese": "\u30a2\u30fc\u30b1\u30f3",
+            "chinese": "\u59cb\u7956\u5c0f\u9e1f",
+            "french": "Ark\u00e9apti"
+        },
+        "type": [
+            "Rock",
+            "Flying"
+        ],
+        "base": {
+            "HP": 55,
+            "Attack": 112,
+            "Defense": 45,
+            "Sp. Attack": 74,
+            "Sp. Defense": 45,
+            "Speed": 70
+        }
+    },
+    {
+        "_id": {
+            "$oid": "640d297361bbf35114708119"
+        },
+        "id": 567,
+        "name": {
+            "english": "Archeops",
+            "japanese": "\u30a2\u30fc\u30b1\u30aa\u30b9",
+            "chinese": "\u59cb\u7956\u5927\u9e1f",
+            "french": "A\u00e9ropt\u00e9ryx"
+        },
+        "type": [
+            "Rock",
+            "Flying"
+        ],
+        "base": {
+            "HP": 75,
+            "Attack": 140,
+            "Defense": 65,
+            "Sp. Attack": 112,
+            "Sp. Defense": 65,
+            "Speed": 110
+        }
+    },
+    {
+        "_id": {
+            "$oid": "640d297361bbf351147081e8"
+        },
+        "id": 774,
+        "name": {
+            "english": "Minior",
+            "japanese": "\u30e1\u30c6\u30ce",
+            "chinese": "\u5c0f\u9668\u661f",
+            "french": "Dodoala"
+        },
+        "type": [
+            "Rock",
+            "Flying"
+        ],
+        "base": {
+            "HP": 60,
+            "Attack": 60,
+            "Defense": 100,
+            "Sp. Attack": 60,
+            "Sp. Defense": 100,
+            "Speed": 60
+        }
+    }
+]
