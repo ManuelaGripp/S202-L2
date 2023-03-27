@@ -1,0 +1,10 @@
+[
+    {
+        "_id": 1,
+        "cliente": [
+            "A",
+            "A"
+        ],
+        "menor_compra": 40
+    }
+]
