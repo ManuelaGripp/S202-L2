@@ -1,0 +1,15 @@
+1. Quem é amigo de Bob?
+MATCH(e:Usuario {nome: 'Bob'})-[rel:AMIGO]- (p:Usuario) RETURN p.nome AS nome
+2. Quem postou a 'Postagem 2'?
+MATCH(p:Postagem{titulo:'Memórias da Tarde'})<-[rel:POSTOU]- (u:Usuario) RETURN u.nome AS nome
+3. Quem tem mais de 35 anos e fez uma postagem?
+MATCH(p:Usuario)-[rel:POSTOU]-(u:Postagem) WHERE p.idade > 35 RETURN p
+
+
+1. Encontre o usuário mais velho.
+MATCH(u:Usuario) RETURN MAX(u.idade)
+2. Quantos usuários têm mais de 30 anos?
+MATCH(u:Usuario) WHERE u.idade > 30 RETURN COUNT(u)
+3. Qual é a média de idade dos usuários?
+MATCH(u:Usuario) RETURN AVG(u.idade)
+
